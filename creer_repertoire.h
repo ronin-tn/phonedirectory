@@ -1,0 +1,6 @@
+#ifndef CREER_REPERTOIRE_H_INCLUDED
+#define CREER_REPERTOIRE_H_INCLUDED
+
+void creer_repertoire();
+
+#endif // CREER_REPERTOIRE_H_INCLUDED
